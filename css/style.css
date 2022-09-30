@@ -3,7 +3,8 @@
 * This file contains the CSS for index.html
 */
 
-html, body {
+html,
+body {
   height: 100%;
   width: 100%;
 }
