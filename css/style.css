@@ -30,3 +30,6 @@ body {
 body {
   background-color: green;
 }
+
+.demo-list-item {
+  width: 300px;
